@@ -18,7 +18,7 @@
 [<img alt="Raspberry Pi logo" titme="I blog about the Raspberry Pi" width="25px" src="https://raw.githubusercontent.com/bengarrett/bengarrett/master/svg/raspberry-pi.svg" />][raspberry-pi] &nbsp; &nbsp; &nbsp;
 [<img alt="Edge logo" titme="Edge is my primary browser" width="25px" src="https://raw.githubusercontent.com/bengarrett/bengarrett/master/svg/edge.svg" />][edge] &nbsp;
 [<img alt="Firefox logo" titme="Firefox is my development browser" width="25px" src="https://raw.githubusercontent.com/bengarrett/bengarrett/master/svg/firefox.svg" />][firefox] &nbsp; &nbsp; &nbsp;
-[<img alt="Font logo" titme="Cascadia Code is my font of choice" width="25px" src="https://raw.githubusercontent.com/bengarrett/bengarrett/master/svg/font.svg" />][cascadia]
+[<img alt="Font logo" titme="Cascadia Code is my font of choice" width="25px" src="https://raw.githubusercontent.com/bengarrett/bengarrett/master/svg/font_reg.svg" />][cascadia]
 [<img alt="Font logo" titme="FiraCode is my alternate font" width="25px" src="https://raw.githubusercontent.com/bengarrett/bengarrett/master/svg/font.svg" />][fira]
 
 [<img alt="Go logo" titme="Go is my language of choice" width="70px" src="https://raw.githubusercontent.com/bengarrett/bengarrett/master/svg/Go-Logo_Aqua.svg" />][go] &nbsp;
