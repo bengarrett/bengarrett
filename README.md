@@ -4,7 +4,7 @@
 
 ---
 
-[![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=bengarrett&count_private=true&show_icons=true&theme=synthwave&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)  &nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bengarrett&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=bengarrett&count_private=true&show_icons=true&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)  &nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bengarrett&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **bengarrett/bengarrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
