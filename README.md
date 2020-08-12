@@ -9,7 +9,7 @@
 
 ### Tools
 
-[<img alt="I host with Digital Ocean" width="25px" src="./svg/digital-ocean.svg" />][digitalocean] &nbsp;
+[<img alt="I host with Digital Ocean" width="25px" src="svg/digital-ocean.svg" />][digitalocean] &nbsp;
 [<img alt="I host with Docker containers" width="25px" src="./svg/docker.svg" />][docker] &nbsp;
 [<img alt="I host on Ubuntu Server" width="25px" src="./svg/ubuntu.svg" />][ubuntu] &nbsp; &nbsp; &nbsp;
 [<img alt="I use Windows 10 as my daily driver." width="25px" src="./svg/windows.svg" />][windows] &nbsp;
