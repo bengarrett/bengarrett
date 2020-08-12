@@ -17,16 +17,20 @@
 [<img alt="Apple logo" titme="I use macOS while mobile." width="25px" src="https://raw.githubusercontent.com/bengarrett/bengarrett/master/svg/apple.svg" />][apple] &nbsp;
 [<img alt="Raspberry Pi logo" titme="I blog about the Raspberry Pi" width="25px" src="https://raw.githubusercontent.com/bengarrett/bengarrett/master/svg/raspberry-pi.svg" />][raspberry-pi] &nbsp; &nbsp; &nbsp;
 [<img alt="Edge logo" titme="Edge is my primary browser" width="25px" src="https://raw.githubusercontent.com/bengarrett/bengarrett/master/svg/edge.svg" />][edge] &nbsp;
-[<img alt="Firefox logo" titme="Firefox is my development browser" width="25px" src="https://raw.githubusercontent.com/bengarrett/bengarrett/master/svg/firefox.svg" />][firefox]
+[<img alt="Firefox logo" titme="Firefox is my development browser" width="25px" src="https://raw.githubusercontent.com/bengarrett/bengarrett/master/svg/firefox.svg" />][firefox] &nbsp; &nbsp; &nbsp;
+[<img alt="Font logo" titme="Cascadia Code is my font of choice" width="25px" src="https://raw.githubusercontent.com/bengarrett/bengarrett/master/svg/font.svg" />][cascadia]
+[<img alt="Font logo" titme="FiraCode is my alternate font" width="25px" src="https://raw.githubusercontent.com/bengarrett/bengarrett/master/svg/font.svg" />][fira]
 
 [<img alt="Go logo" titme="Go is my language of choice" width="70px" src="https://raw.githubusercontent.com/bengarrett/bengarrett/master/svg/Go-Logo_Aqua.svg" />][go] &nbsp;
 [<img alt="JS logo" titme="I develope in native JS" width="50px" src="https://raw.githubusercontent.com/bengarrett/bengarrett/master/svg/js.svg" />][js] &nbsp; &nbsp;
 [<img alt="HTML5 logo" titme="I develope with HTML5" width="40px" src="https://raw.githubusercontent.com/bengarrett/bengarrett/master/svg/html5.svg" />][html]
 
+[cascadia]: https://github.com/microsoft/cascadia-code
 [digitalocean]: https://m.do.co/c/a9270bdb9e74
 [docker]: https://www.docker.com
 [edge]: https://www.microsoft.com/en-us/edge
 [fedora]: https://getfedora.org
+[fira]: https://github.com/tonsky/FiraCode
 [firefox]: https://www.mozilla.org/en-US/firefox
 [go]: https://go.dev/
 [html]: https://developer.mozilla.org/en-US/docs/Web/html
