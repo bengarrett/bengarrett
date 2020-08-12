@@ -7,7 +7,7 @@
 
 [![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=bengarrett&count_private=true&show_icons=true&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bengarrett&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Tools
+### Toolbox
 
 [<img alt="Digital Ocean logo" title="I host with Digital Ocean" width="25px" src="https://raw.githubusercontent.com/bengarrett/bengarrett/master/svg/digital-ocean.svg" />][digitalocean] &nbsp;
 [<img alt="Docker logo" titme="I host with Docker containers" width="25px" src="https://raw.githubusercontent.com/bengarrett/bengarrett/master/svg/docker.svg" />][docker] &nbsp;
@@ -18,8 +18,6 @@
 [<img alt="Raspberry Pi logo" titme="I blog about the Raspberry Pi" width="25px" src="https://raw.githubusercontent.com/bengarrett/bengarrett/master/svg/raspberry-pi.svg" />][raspberry-pi] &nbsp; &nbsp; &nbsp;
 [<img alt="Edge logo" titme="Edge is my primary browser" width="25px" src="https://raw.githubusercontent.com/bengarrett/bengarrett/master/svg/edge.svg" />][edge] &nbsp;
 [<img alt="Firefox logo" titme="Firefox is my development browser" width="25px" src="https://raw.githubusercontent.com/bengarrett/bengarrett/master/svg/firefox.svg" />][firefox]
-
-### Code
 
 [<img alt="Go logo" titme="Go is my language of choice" width="70px" src="https://raw.githubusercontent.com/bengarrett/bengarrett/master/svg/Go-Logo_Aqua.svg" />][go] &nbsp;
 [<img alt="JS logo" titme="I develope in native JS" width="50px" src="https://raw.githubusercontent.com/bengarrett/bengarrett/master/svg/js.svg" />][js] &nbsp; &nbsp;
