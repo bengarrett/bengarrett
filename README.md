@@ -1,6 +1,9 @@
 ### What's new on [The Developer's Tidbits][tdt].
 
 <!-- BLOG-POST-LIST:START -->
+- [Go, create a Unicode random string generator.](http://devtidbits.com/2020/08/10/go-create-a-unicode-random-string-generator/)
+- [Go SQL error “converting NULL to string is unsupported”](http://devtidbits.com/2020/08/03/go-sql-error-converting-null-to-string-is-unsupported/)
+- [Customise WordPress on Docker](http://devtidbits.com/2019/11/02/customise-wordpress-on-docker/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
