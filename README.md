@@ -1,4 +1,4 @@
-### What's new on [The Developer's Tidbits][tdt].
+### ✒️ What's new on [The Developer's Tidbits][tdt].
 
 <!-- BLOG-POST-LIST:START -->
 - [Go, create a Unicode random string generator.](http://devtidbits.com/2020/08/10/go-create-a-unicode-random-string-generator/)
@@ -10,7 +10,7 @@
 
 [![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=bengarrett&count_private=true&show_icons=true&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bengarrett&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Toolbox
+### 🔧 Toolbox
 
 [<img alt="Digital Ocean logo" title="I host with Digital Ocean" width="25px" src="https://raw.githubusercontent.com/bengarrett/bengarrett/master/svg/digital-ocean.svg" />][digitalocean] &nbsp;
 [<img alt="Docker logo" titme="I host with Docker containers" width="25px" src="https://raw.githubusercontent.com/bengarrett/bengarrett/master/svg/docker.svg" />][docker] &nbsp;
