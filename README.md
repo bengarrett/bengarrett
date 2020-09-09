@@ -1,4 +1,4 @@
-<img src="1500x500.jfif" alt="Sydney, Australia" style="border-radius:15px;border:1px solid black" />
+<img src="https://github.com/bengarrett/bengarrett/blob/master/1500x500.jfif" alt="Sydney, Australia" style="border-radius:15px;border:1px solid black" />
 
 ### ✒️ What's new on [The Developer's Tidbits][tdt].
 
