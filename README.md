@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/bengarrett/bengarrett/main/1500x500.jpeg" alt="Sydney, Australia" style="border-radius:15px;border:1px solid black" />
 
-### ✒️ What's new on [The Developer's Tidbits][tdt].
+### 📚 What's new on [The Developer's Tidbits][tdt].
 
 <!-- BLOG-POST-LIST:START -->
 - [Go, create a Unicode random string generator.](http://devtidbits.com/2020/08/10/go-create-a-unicode-random-string-generator/)
