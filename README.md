@@ -8,11 +8,7 @@
 - [Customise WordPress on Docker](http://devtidbits.com/2019/11/02/customise-wordpress-on-docker/)
 <!-- BLOG-POST-LIST:END -->
 
----
-
 [![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=bengarrett&count_private=true&show_icons=true&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bengarrett&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 [<img alt="Go logo" titme="Go is my language of choice" width="45px" src="https://raw.githubusercontent.com/bengarrett/bengarrett/master/svg/Go-Logo_Aqua.svg" />][go] &nbsp;
 [<img alt="JS logo" titme="I develope in native JS" width="25px" src="https://raw.githubusercontent.com/bengarrett/bengarrett/master/svg/js.svg" />][js] &nbsp;
