@@ -3,9 +3,9 @@
 ### 📚 What's new on [The Developer's Tidbits][tdt].
 
 <!-- BLOG-POST-LIST:START -->
-- [Go, create a Unicode random string generator.](http://devtidbits.com/2020/08/10/go-create-a-unicode-random-string-generator/)
-- [Go SQL error “converting NULL to string is unsupported”](http://devtidbits.com/2020/08/03/go-sql-error-converting-null-to-string-is-unsupported/)
-- [Customise WordPress on Docker](http://devtidbits.com/2019/11/02/customise-wordpress-on-docker/)
+- [Go byte units and localized formatting](https://devtidbits.com/2021/09/17/go-byte-units-and-localized-formatting/)
+- [Center text in a terminal with Go.](https://devtidbits.com/2021/09/15/center-text-in-a-terminal-with-go/)
+- [Go, create a Unicode random string generator.](https://devtidbits.com/2020/08/10/go-create-a-unicode-random-string-generator/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=bengarrett&count_private=true&show_icons=true&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bengarrett&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
