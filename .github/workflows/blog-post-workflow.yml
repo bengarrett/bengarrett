@@ -8,6 +8,7 @@ on:
       name:
         description: 'Update blog posts'
         required: true
+        default: 'yes'
 
 jobs:
   update-readme-with-blog:
