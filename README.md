@@ -3,9 +3,9 @@
 ### 📚 What's new on [The Developer's Tidbits][tdt].
 
 <!-- BLOG-POST-LIST:START -->
+- [Create a Boolean Yes or No prompt in Go](https://devtidbits.com/2022/02/02/create-a-boolean-yes-or-no-prompt-in-go/)
 - [Go byte units and localized formatting](https://devtidbits.com/2021/09/17/go-byte-units-and-localized-formatting/)
 - [Center text in a terminal with Go.](https://devtidbits.com/2021/09/15/center-text-in-a-terminal-with-go/)
-- [Go, create a Unicode random string generator.](https://devtidbits.com/2020/08/10/go-create-a-unicode-random-string-generator/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=bengarrett&count_private=true&show_icons=true&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bengarrett&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
