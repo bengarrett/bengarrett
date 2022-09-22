@@ -8,8 +8,12 @@
 [<img alt="Digital Ocean logo" title="I host with Digital Ocean" width="23px" src="https://raw.githubusercontent.com/bengarrett/bengarrett/master/svg/digital-ocean.svg" />][digitalocean] &nbsp;
 [<img alt="Raspberry Pi logo" titme="I blog about the Raspberry Pi" width="20px" src="https://raw.githubusercontent.com/bengarrett/bengarrett/master/svg/raspberry-pi.svg" />][raspberry-pi]
 
----
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bengarrett&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
 [![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=bengarrett&count_private=true&show_icons=true&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [digitalocean]: https://m.do.co/c/a9270bdb9e74
