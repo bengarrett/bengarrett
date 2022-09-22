@@ -1,20 +1,16 @@
 <img src="https://raw.githubusercontent.com/bengarrett/bengarrett/main/1500x500.jpeg" alt="Sydney, Australia" style="border-radius:15px;border:1px solid black" />
 
-### 📚 What's new on [The Developer's Tidbits][tdt].
-
-<!-- BLOG-POST-LIST:START -->
-- [Create a Boolean Yes or No prompt in Go](https://devtidbits.com/2022/02/02/create-a-boolean-yes-or-no-prompt-in-go/)
-- [Go byte units and localized formatting](https://devtidbits.com/2021/09/17/go-byte-units-and-localized-formatting/)
-- [Center text in a terminal with Go.](https://devtidbits.com/2021/09/15/center-text-in-a-terminal-with-go/)
-<!-- BLOG-POST-LIST:END -->
-
-[![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=bengarrett&count_private=true&show_icons=true&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bengarrett&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### 📚 Check out my site, [The Developer's Tidbits][tdt]
 
 [<img alt="Go logo" titme="Go is my language of choice" width="45px" src="https://raw.githubusercontent.com/bengarrett/bengarrett/master/svg/Go-Logo_Aqua.svg" />][go] &nbsp;
 [<img alt="JS logo" titme="I develope in native JS" width="25px" src="https://raw.githubusercontent.com/bengarrett/bengarrett/master/svg/js.svg" />][js] &nbsp;
 [<img alt="HTML5 logo" titme="Often maligned but critical HTML5" width="20px" src="https://raw.githubusercontent.com/bengarrett/bengarrett/master/svg/html5.svg" />][html] &nbsp; &nbsp; &nbsp;
 [<img alt="Digital Ocean logo" title="I host with Digital Ocean" width="23px" src="https://raw.githubusercontent.com/bengarrett/bengarrett/master/svg/digital-ocean.svg" />][digitalocean] &nbsp;
 [<img alt="Raspberry Pi logo" titme="I blog about the Raspberry Pi" width="20px" src="https://raw.githubusercontent.com/bengarrett/bengarrett/master/svg/raspberry-pi.svg" />][raspberry-pi]
+
+---
+
+[![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=bengarrett&count_private=true&show_icons=true&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bengarrett&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [digitalocean]: https://m.do.co/c/a9270bdb9e74
 [raspberry-pi]: https://www.raspberrypi.org
