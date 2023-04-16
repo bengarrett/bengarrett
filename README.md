@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/bengarrett/bengarrett/main/1500x500.jpeg" alt="Sydney, Australia" style="border-radius:15px;border:1px solid black" />
 
 ### 📚 Check out my site, [The Developer's Tidbits][tdt]
 
